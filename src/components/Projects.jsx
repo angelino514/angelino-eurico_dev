@@ -72,7 +72,7 @@ export default function Projects() {
                   </div>
                   <h3>Painel Administrativo</h3>
                   <p className="project-summary">
-                     Sistema completo de gestão comercial com painel de controlo, API REST e base de dados relacional.
+                     Sistema de gestão comercial com painel de controlo, API REST e base de dados relacional.
                   </p>
                   <a href="https://painel-admin-amber-pi.vercel.app/" className="project-link" target="_blank" rel="noopener noreferrer">
                      Ver demo
