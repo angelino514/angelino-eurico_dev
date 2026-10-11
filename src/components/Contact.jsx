@@ -24,6 +24,9 @@ export default function Contact() {
    });
 
    function hadelGange(e) {
+
+      setErro(false)
+
       const { name, value } = e.target;
       setFormadata(prev => ({
          ...prev, [name]: value
@@ -96,7 +99,6 @@ export default function Contact() {
          }
 
       } catch (err) {
-         console.log(err);
          setMesnsagemShow('Erro ao conectar com o servidor.');
          setErro(true);
       } finally {

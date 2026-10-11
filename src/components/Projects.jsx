@@ -70,7 +70,7 @@ export default function Projects() {
                         className="project-image"
                      />
                   </div>
-                  <h3>Painel Administrativo E-Commerce</h3>
+                  <h3>Painel Administrativo</h3>
                   <p className="project-summary">
                      Sistema completo de gestão comercial com painel de controlo, API REST e base de dados relacional.
                   </p>
