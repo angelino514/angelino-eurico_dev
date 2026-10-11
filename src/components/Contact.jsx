@@ -73,7 +73,7 @@ export default function Contact() {
          infSend.append('email', formadata.email.trim());
          infSend.append('messege', formadata.messege.trim());
 
-         const res = await fetch('http://localhost:3000/mensgemportffolio', {
+         const res = await fetch('https://banck-end.vercel.app/mensgemportffolio', {
             method: 'POST',
             body: infSend
          });
