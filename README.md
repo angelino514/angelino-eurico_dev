@@ -1,16 +1,42 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# Angelino Eurico — Portfólio
 
-Currently, two official plugins are available:
+Portfólio pessoal desenvolvido para apresentar o meu perfil profissional, as minhas competências técnicas e os projetos que construí na área do desenvolvimento web.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Sobre o projeto
 
-## React Compiler
+Este portfólio apresenta o meu percurso como estudante de Engenharia Informática e desenvolvedor web Full Stack iniciante. Reúne informações sobre as minhas competências, os projetos desenvolvidos e as oportunidades profissionais que procuro.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tecnologias utilizadas
 
-## Expanding the Oxlint configuration
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Framer Motion
+- Vite
+- Node.js
+- Express.js
+- API REST
+- Nodemailer
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Funcionalidades
+
+- Apresentação do perfil profissional.
+- Exibição dos projetos desenvolvidos.
+- Animações e elementos interativos.
+- Formulário de contacto integrado com uma API REST.
+- Processamento e envio de mensagens por e-mail através do backend.
+- Download do currículo em PDF.
+
+## Objetivo
+
+Demonstrar as minhas competências em desenvolvimento web, incluindo a criação de interfaces, a integração entre frontend e backend e a utilização de APIs REST.
+
+## Autor
+
+**Angelino Eurico**
+
+---
+
+*Em constante aprendizagem e evolução EM DESENVOLVIMENTO DE SOFTWARE*
